@@ -42,7 +42,7 @@ body{
     padding: 20px;
     margin-bottom: 40px;
     margin-top: 55px;
-    /* box-shadow: 0 0 20px rgba(0,139,253,0.25); */
+    box-shadow: 0 0 20px rgba(0,139,253,0.25);
     /* border: 2.5px solid #424ae0; */
     border-radius: 5px;
 }
@@ -78,17 +78,15 @@ body{
     font-size: 30px;
     color: white;
     position: relative;
-    /* top: 50%;
-    left: 50%; */
-    margin: 55px 30px;
+    top: 35%;
+    text-align: center;
 }
 .textT{
     font-size: 30px;
     color: white;
     position: relative;
-    /* top: 50%;
-    left: 50%; */
-    margin: 55px 40px;
+    top: 35%;
+    text-align: center;
 }
 .heads,.tails{
     position: absolute;
